@@ -13,8 +13,14 @@ Step 1.      Create a Google Docs document.
 Step 2.      Insert the HTML script tag.
 
     Extract the contents of the zipped file downloaded from Google Docs. Then open the GoogleDocs.HTML In a plain text editor. Navigate to the very end of the HTML file and just before the final closing body tag example(</body>) insert this script tag:
+    
+    
+    
 
 <script src="SimpleOrangeTemplate/allJS/template.js"></script>
+
+
+
 
 For example, the end of the HTML file should look something like, but not necessarily identical to this:
 
