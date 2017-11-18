@@ -14,14 +14,13 @@ Step 2.      Insert the HTML script tag.
 
     Extract the contents of the zipped file downloaded from Google Docs. Then open the GoogleDocs.HTML In a plain text editor. Navigate to the very end of the HTML file and just before the final closing body tag example(</body>) insert this script tag:
     
-    
-    
-
+<br>
+<br>
+<br>
 <script src="SimpleOrangeTemplate/allJS/template.js"></script>
-
-
-
-
+<br>
+<br>
+<br>
 For example, the end of the HTML file should look something like, but not necessarily identical to this:
 
 &lt;p class=&quot;c18&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.i79pquy5edxw&quot;&gt;My h3&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c10&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.9msn47qs3rgj&quot;&gt;This is a normal h1&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c15&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.cww77kwe2pqe&quot;&gt;_h4menu_&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c4&quot;&gt;&lt;span class=&quot;c3 c8&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c4&quot;&gt;
