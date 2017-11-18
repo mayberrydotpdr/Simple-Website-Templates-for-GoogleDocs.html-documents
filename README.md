@@ -23,11 +23,13 @@ Step 2.      Insert the HTML script tag.
 <br>
 <br>
 For example, the end of the HTML file should look something like, but not necessarily identical to this:
-
+<br>
+<br>
 &lt;p class=&quot;c18&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.i79pquy5edxw&quot;&gt;My h3&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c10&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.9msn47qs3rgj&quot;&gt;This is a normal h1&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c15&quot;&gt;&lt;span class=&quot;c1&quot;&gt;&lt;a class=&quot;c0&quot; href=&quot;#h.cww77kwe2pqe&quot;&gt;_h4menu_&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c4&quot;&gt;&lt;span class=&quot;c3 c8&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;c4&quot;&gt;
 &lt;span class=&quot;c3 c8&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;script src=&quot;SimpleOrangeTemplate/allJS/template.js&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;
-
+<br>
+<br>
 After the script tag has been inserted, Save, and place a copy of your chosen template in the same folder with the HTML document that you just made. If your document had images in it you will have an images folder a template folder and a HTML document.
 You can no open and inspect your newly created website by either double-clicking on the HTML file or right-clicking and choosing a browser to open the HTML file in.
 
