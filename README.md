@@ -38,6 +38,20 @@ Step 3.      Replace the sample images with your own.
 
     Three sample images have been provided to give you an idea of the size of and type of photos that will be needed to create your logo, the graphic at the top of the menu and the small icon in the title tab known as a favicon. All of the photos used must be the .png format and they must be the same size In pixels(px) as the original sample images. As long as you use the name of the .png that is currently in use by the template on your photo and you place it in the same folder as the sample images, your new replacement image will be displayed instead of the sample image. 
 
+Social Media Links that are supported with Icons
+
+Facebook
+Twitter
+YouTube
+Google+
+Linkedin
+Pinterest
+Blogger
+WordPress
+Tumblr
+Skype
+Instagram
+
    That's all there is to it! 
    
 If you upload it to a server be sure and name it  index.html  and place it in your public server folder.
