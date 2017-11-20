@@ -37,7 +37,7 @@ You can no open and inspect your newly created website by either double-clicking
 HTML file or right-clicking and choosing a browser to open the HTML file in.
 
 
-Step 3.      Replace the sample images with your own.
+Step 3.      Replace the sample images with your own.                                                                                                                                                                                                                                                                             ........
 
 
 Three sample images have been provided to give you an idea of the size of and type of photos that will be 
