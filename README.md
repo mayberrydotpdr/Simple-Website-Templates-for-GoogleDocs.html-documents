@@ -5,9 +5,19 @@ Simple instructions on how to install one of these templates.
 These are simple website templates that can be used to format the content from well-formed GoogleDocs.HTML documents. See the readme for simple instructions on how to install one of these templates.
 
      
-################################################## 
+####################################################################### 
+
+
+
+
+
 #########    Step 1.      Create a Google Docs document.   ############
-##################################################
+
+
+
+
+
+#######################################################################
 
 Create a Google Docs document that you would like to publish to the web or view on your local browser. 
 In page setup remove all margins and double check to make sure that they are set to 0in. margins on all 
@@ -20,9 +30,19 @@ Google Docs document.  Insert a table of contents. Choose the option with Blue L
 Then  download your document as a WebPage.HTML.
      
      
-###################################################
+#######################################################################
+
+
+
+
+
 #########    Step 2.      Insert the HTML script tag.   ###############
-###################################################
+
+
+
+
+
+#######################################################################
 
 Extract the contents of the zipped file downloaded from Google Docs. Then open the GoogleDocs.
 HTML In a plain text editor. Navigate to the very end of the HTML file and just before the 
