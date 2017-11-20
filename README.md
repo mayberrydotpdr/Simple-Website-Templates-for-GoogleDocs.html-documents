@@ -92,7 +92,7 @@ Note: that YouTube and WordPress are two words without any spaces in between.
 They need to be capitalized just as they are shown below.
 
 Your link should look exactly like the ones shown
-in the live Demo, they are sort of like programmatic commands. Doing this will trigger the relative social media 
+in the live Demo( http://workmansfruit.com/ ), they are sort of like programmatic commands. Doing this will trigger the relative social media 
 icon at the bottom of the webpage.
 
 Social Media Links that are supported with Icons...
