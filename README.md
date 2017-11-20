@@ -38,6 +38,12 @@ Step 3.      Replace the sample images with your own.
 
     Three sample images have been provided to give you an idea of the size of and type of photos that will be needed to create your logo, the graphic at the top of the menu and the small icon in the title tab known as a favicon. All of the photos used must be the .png format and they must be the same size In pixels(px) as the original sample images. As long as you use the name of the .png that is currently in use by the template on your photo and you place it in the same folder as the sample images, your new replacement image will be displayed instead of the sample image. 
 
+If you're into social media. All you have to do  in order for your social media page to be represented
+by an icon is create a link in Google Docs to your social media page and make sure that the text is one
+word with the first letter capitalized as shown below. Your link should look exactly like the ones shown
+in the live Demo, they are sort of like programmatic commands. Doing this will trigger the relative social media 
+icon at the bottom of the webpage.
+
 Social Media Links that are supported with Icons...
 
 Facebook
