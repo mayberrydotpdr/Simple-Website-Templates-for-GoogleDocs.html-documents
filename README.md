@@ -5,14 +5,24 @@ Simple instructions on how to install one of these templates.
 These are simple website templates that can be used to format the content from well-formed GoogleDocs.HTML documents. See the readme for simple instructions on how to install one of these templates.
 
 
-Step 1.      Create a Google Docs document.
+#########    Step 1.      Create a Google Docs document.   ############
 
-     Create a Google Docs document that you would like to publish to the web or view on your local browser. In page setup remove all margins and double check to make sure that they are set to 0in. margins on all four sides of the document.  Set the background-color, fonts and any other styles that you would like your document to appear with in the webpage.  The very first item on the document should be labeled as an H1. The template will use the first h1 to create the title and also the top of the menu.  As you create your document the headings that you set will become items in the website's menu and the first paragraph will be used to tell search engines what your website is about. When you are finished creating your Google Docs document.  Insert a table of contents. Choose the option with Blue Links (without numbers).  Then  download your document as a WebPage.HTML.
+Create a Google Docs document that you would like to publish to the web or view on your local browser. 
+In page setup remove all margins and double check to make sure that they are set to 0in. margins on all 
+four sides of the document.  Set the background-color, fonts and any other styles that you would like your 
+document to appear with in the webpage.  The very first item on the document should be labeled as an H1. 
+The template will use the first h1 to create the title and also the top of the menu.  As you create your 
+document the headings that you set will become items in the website's menu and the first paragraph will 
+be used to tell search engines what your website is about. When you are finished creating your 
+Google Docs document.  Insert a table of contents. Choose the option with Blue Links (without numbers).
+Then  download your document as a WebPage.HTML.
      
 
-Step 2.      Insert the HTML script tag.
+#########    Step 2.      Insert the HTML script tag.   ############
 
-    Extract the contents of the zipped file downloaded from Google Docs. Then open the GoogleDocs.HTML In a plain text editor. Navigate to the very end of the HTML file and just before the final closing body tag example(</body>) insert this script tag:
+Extract the contents of the zipped file downloaded from Google Docs. Then open the GoogleDocs.
+HTML In a plain text editor. Navigate to the very end of the HTML file and just before the 
+final closing body tag example(</body>) insert this script tag:
 
 <br>
 <br>
@@ -37,8 +47,7 @@ You can no open and inspect your newly created website by either double-clicking
 HTML file or right-clicking and choosing a browser to open the HTML file in.
 
 
-Step 3.      Replace the sample images with your own.                                                                                                                                                                                                                                                                             ........
-
+##########  Step 3.      Replace the sample images with your own.    ##############
 
 Three sample images have been provided to give you an idea of the size of and type of photos that will be 
 needed to create your logo, the graphic at the top of the menu and the small icon in the title tab known as a 
