@@ -159,8 +159,8 @@ function makeMenuList(){
             theLink = headingList[i].textContent,
             newMenuLi = document.createElement('li');
         newMenuLi.innerHTML = '<a href="' + headingHref + '" class="menuAtags">' + theLink + '</a>';
-            document.getElementById("menuUl").appendChild(newMenuLi);
-            newMenuLi.setAttribute('class', 'menuLiTags');
+        document.getElementById("menuUl").appendChild(newMenuLi);
+        newMenuLi.setAttribute('class', 'menuLiTags');
     }
 }
 
