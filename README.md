@@ -40,7 +40,12 @@ Step 3.      Replace the sample images with your own.
 
 If you're into social media. All you have to do  in order for your social media page to be represented
 by an icon is create a link in Google Docs to your social media page and make sure that the text is one
-word with the first letter capitalized as shown below. Your link should look exactly like the ones shown
+word with the first letter capitalized as shown below.
+
+Note: that YouTube and WordPress are two words without any spaces in between.  
+They need to be capitalized just as they are shown below.
+
+Your link should look exactly like the ones shown
 in the live Demo, they are sort of like programmatic commands. Doing this will trigger the relative social media 
 icon at the bottom of the webpage.
 
