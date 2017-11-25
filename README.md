@@ -63,13 +63,6 @@ This will set the color for the website's theme.
 
 
 
-For example, the end of the HTML file should look something like, but not necessarily identical to this:
-
-
-
-<p class="c18"><span class="c1"><a class="c0" href="#h.i79pquy5edxw">My h3</a></span></p><p class="c10"><span class="c1"><a class="c0" href="#h.9msn47qs3rgj">This is a normal h1</a></span></p><p class="c15"><span class="c1"><a class="c0" href="#h.cww77kwe2pqe">_h4menu_</a></span></p><p class="c4"><span class="c3 c8"></span></p><p class="c4"> <span class="c3 c8"></span></p> <script src="SimpleTemplate/allJS/template.js" id="Blue"></script></body></html>
-
-
 
 After the script tag has been inserted, Save, and place a copy of your chosen template in the same folder with the HTML document that you just made. If your document had images in it you will have an images folder a template folder and a HTML document. You can now open and inspect your newly created website by either double-clicking on the HTML file or right-clicking and choosing a browser to open the HTML file in.
 
